@@ -12,8 +12,6 @@ Program ini digunakan untuk melakukan analisis data populasi dan persentase peng
 - `pythonVers.py` : Source code implementasi Python untuk analisis data.
 - `data.csv` : Data populasi dan persentase pengguna internet Indonesia.
 - `plot_script.gnu` : Skrip gnuplot yang dihasilkan untuk visualisasi.
-- `Indonesia_Population_Internet_Analysis_C.png` : Hasil visualisasi dari implementasi C.
-- `Indonesia_Population_Internet_Analysis.png` : Hasil visualisasi dari implementasi Python.
 
 ## Cara Menjalankan
 1. **Untuk program C:**
